@@ -2,15 +2,6 @@
 
 This repository contains a series of Jupyter notebooks dedicated to developing and comparing Optical Character Recognition (OCR) models for license plate recognition. Additionally, it includes a YOLOv7-based Automatic Number Plate Recognition (ANPR) system designed specifically for Iranian license plates. The goal is to enhance OCR performance and evaluate multiple models to determine the most accurate approach for recognizing characters in various environmental conditions.
 
-## Table of Contents
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Comparison](#model-comparison)
-- [YOLOv7 ANPR](#yolov7-anpr)
-- [License](#license)
-
 ## Overview
 Accurate recognition of vehicle license plates is crucial for applications such as traffic management, toll systems, and security. This project compares different OCR models' performance on Iranian license plates, focusing on training data from real-world scenarios. It also implements an ANPR system using the YOLOv7 architecture for object detection and OCR tasks.
 
